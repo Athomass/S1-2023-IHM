@@ -2,7 +2,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 
@@ -42,6 +42,9 @@ body {
     background-color: rgb(255, 255, 255);
 }
 
+main{
+    min-height: 900px;
+}
 
 footer{
     align-items: center;
