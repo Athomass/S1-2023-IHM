@@ -12,6 +12,12 @@ header{
     background-color : rgb(129, 129, 115);
 }
 
+.texte_logo img{
+    margin-left: 3px;
+    margin-top: 10px;
+    width: 98%;    
+}
+
 #bord{
     width:78%;
     height: 60px;
@@ -36,10 +42,6 @@ body {
     background-color: rgb(255, 255, 255);
 }
 
-
-a:hover {
-    background-color:pink;
-}
 
 footer{
     bottom: 0;
