@@ -19,7 +19,7 @@ header{
 }
 
 #bord{
-    width:78%;
+    width:80%;
     height: 60px;
     background-color : rgb(129, 129, 115);
 }
@@ -44,8 +44,6 @@ body {
 
 
 footer{
-    bottom: 0;
-    position:absolute;
     align-items: center;
     background-color: rgb(129, 129, 115);
     margin-bottom: 5px;
