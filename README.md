@@ -16,6 +16,7 @@ Etudiant 5 : Ettabaa Younes
 # Présentation du projet
 
 Notre projet consiste à présenter l'entreprise Gameloft d'un point de vue économique.
+&nbsp;
 Pour faire ceci, nous allons créer un site web comportant:
 -Une page d'accueil
 -Une page d'introduction à Gameloft
