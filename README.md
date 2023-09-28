@@ -17,8 +17,8 @@ Etudiant 5 : Ettabaa Younes
 Notre projet consiste à présenter l'entreprise Gameloft d'un point de vue économique.
 
 Pour faire ceci, nous allons créer un site web comportant:
--Salut
--ça va?
+- Salut
+- ça va?
 
 
 
