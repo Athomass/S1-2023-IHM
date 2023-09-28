@@ -2,7 +2,7 @@
 
 ## Sujet   
 
-[Nom du projet](https://login.github.io/projet/)
+[Gameloft](https://athomass.github.io/S1-2023-IHM/)
 
 ## Membres du groupe :
 
