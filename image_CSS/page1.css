@@ -75,6 +75,8 @@ footer{
     height: 150px;
 }
 
+
+
 .image_footer{
     display: flex;
     justify-content: center;
@@ -86,14 +88,12 @@ footer{
 }
 
 .dropdown-menu {
-    width: 100%;
-    margin: 0;
     display: none;
     background-color: rgb(129, 129, 115);   
 }
 
 .dropdown-menu a {
-  height: 50px;
+  height: 200px;
   font-size: 25px;
   color: #333131;
   text-decoration: none;
