@@ -30,5 +30,7 @@ Pour faire ceci, nous allons créer un site web comportant:
 
 **Auteur : Contois Romain** 
 
+Vérification W3C : (https://validator.w3.org/nu/?doc=https%3A%2F%2Fathomass.github.io%2FS1-2023-IHM%2FPr%25C3%25A9sentation_de_Gameloft.html)
+
 
 
