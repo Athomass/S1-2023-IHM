@@ -1,66 +1,116 @@
-@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
-
-html, body{
-    background-image: url("image/peakpx.jpg");
-    background-size: cover;
-    height: 100%;
-    width: 100%;
-    margin: 0;
-    padding: 0;
+body{
+    margin:0;
 }
 
 header{
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 70px;
-    background-color: #2A2A2A;
+    background-color: #79ADDC;
+    height:80px;
+    width:100%;
+    display: flex;
+    position: static;
+    
 }
 
-.texteCentre {
-    top:0;
-    height: 90%;
+section.contenu {
+    background-image: url(tuilePaterne.png);
+    background-repeat: repeat;
+    background-size:300px;
+    height: 92%;
     width: 100%;
-    display: flex;
-    justify-content:center;
-    align-items:center;
+    position: fixed;
+    display:flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:0;
+    }
+
+h1 {
+    font-size: 160px;
+    font-family: 'Dongle', sans-serif;
+    color: rgb(31, 31, 31);
+    text-shadow:
+    -2px -2px 0 #FCF5C7,
+     0   -2px 0 #FCF5C7,
+     2px -2px 0 #FCF5C7,
+     2px  0   0 #FCF5C7,
+     2px  2px 0 #FCF5C7,
+     0    2px 0 #FCF5C7,
+    -2px  2px 0 #FCF5C7,
+    -2px  0   0 #FCF5C7;
+    margin:0;
+    padding:0;
 }
 
-.texteCentre h1{
-    color:whitesmoke;
+h2 {
     font-size: 100px;
-    font-family: 'Croissant One', cursive;
+    font-family: 'Dongle', sans-serif;
+    color: rgb(31, 31, 31);
+    text-shadow:
+    -2px -2px 0 #FCF5C7,
+     0   -2px 0 #FCF5C7,
+     2px -2px 0 #FCF5C7,
+     2px  0   0 #FCF5C7,
+     2px  2px 0 #FCF5C7,
+     0    2px 0 #FCF5C7,
+    -2px  2px 0 #FCF5C7,
+    -2px  0   0 #FCF5C7;
+    margin:0;
+    padding:0;
+    /*height:100px;*/
 }
 
-.texteCentre h2{
-    color:whitesmoke;
-    font-size: 75px;
-    font-family: 'Croissant One', cursive;
+a {
+    text-decoration:none;
+    color:inherit;
 }
 
-.boutons {
-    position: fixed;
-    left: 0;
-    top: 75%;
-    width: 100%;
-    height: 70px;
-    display: flex;
+nav.boutonsAlignes{
+    height:350px;
+    width:85%;
+    display:flex;
+    justify-content: space-around;
     align-items:center;
-    justify-content:space-around;
+    flex-wrap:wrap;
 }
 
-.boutonNavigation {
-    color: whitesmoke;
-    font-size: 35px;
-    font-family: 'Croissant One', cursive;
-    text-decoration: none;
+a.boutonNavigation {
+    transition:0.2s;
+    padding:20px;
+    font-family: 'Wix Madefor Display', sans-serif;
+    font-size:40px;
+    border-width:5px;
+    border-radius: 180px;
+    border-style: solid;
+    border-color : #FCF5C7;
+    width:45%;
+    text-align: center;
 }
 
-.boutonNavigation:hover{
+#page1 {
+    transition:0.2s;
+    background-color:#FFC09F;
+}
+
+#page2 {
+    transition:0.2s;
+    background-color:#79ADDC;
+}
+
+#page3 {
+    transition:0.2s;
+    background-color:#FFEE93;
+}
+
+#page4 {
+    transition:0.2s;
+    background-color:#ADF7B6;
+}
+
+a.boutonNavigation:hover {
+    transition-delay: 0.1s;
+    transition:0.5s;
+    background-color: rgb(31, 31, 31) !important;
     color: whitesmoke;
-    font-size: 35px;
-    font-family: 'Croissant One', cursive;
-    text-decoration: underline;
+    cursor: pointer;
 }
