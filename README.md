@@ -24,6 +24,6 @@ Pour faire ceci, nous allons créer un site web comportant:
 - Une page pour illustrer les données économiques de Gameloft en chiffre (Annaeg Thomasset)
 - Une page pour présenter la stratégie économique de Gameloft(Ettabaa Younes)
 
-## Développement Site Web et Validation des pages
+# Développement Site Web et Validation des pages
 
 
