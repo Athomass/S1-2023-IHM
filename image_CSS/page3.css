@@ -61,6 +61,7 @@ body {
     background-color: #79addc;
     padding: 10px 20px;
     position: relative;
+    overflow-x: clip;
 }
 
 .logo {
