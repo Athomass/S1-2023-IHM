@@ -1,3 +1,13 @@
+.image_footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image_footer img{
+    width: 30%;
+}
+
 #logo1{
     display: flex;
     justify-content: center;
