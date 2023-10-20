@@ -126,6 +126,7 @@ body {
 .menu.active li a {
     text-decoration: none; 
     color: whitesmoke; 
+    font-family: 'Dongle', sans-serif;
     text-shadow: 2px 2px 4px #000;
     font-size : 30px;
 }
