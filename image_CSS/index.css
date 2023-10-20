@@ -4,11 +4,40 @@ body{
 
 header{
     background-color: #79ADDC;
+    padding: 0;
     height:80px;
     width:100%;
-    display: flex;
     position: static;
-    
+    display: flex;
+    justify-content: space-between;
+}
+
+.logoHappybara {
+    width:20%;
+    margin:20px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoHappybara img{
+    max-width: 60%;
+    max-height: 60%;
+}
+
+.menuBurger {
+    width:20%;
+    margin:0px;
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: baseline;
+    align-items: center;
+}
+
+.menuBurger img{
+    max-width: 80%;
+    max-height: 80%;
+    margin-right: 20px;
 }
 
 section.contenu {
