@@ -48,7 +48,13 @@ Vérification W3C : (https://validator.w3.org/nu/?doc=https%3A%2F%2Fathomass.git
 
 Vérification W3C : (https://validator.w3.org/nu/?doc=https%3A%2F%2Fathomass.github.io%2FS1-2023-IHM%2Fpage2.html)
 
-![Capture d'écran de la conformité de la page](W3C_Présentation_Gameloft.png)
+### Gameloft dans l'industrie du jeu vidéo
+
+**Auteur : Ez-zouak Mehdi ** 
+
+Vérification W3C : (https://validator.w3.org/nu/?doc=https%3A%2F%2Fathomass.github.io%2FS1-2023-IHM%2Fpage3.html)
+
+
 
 
 
