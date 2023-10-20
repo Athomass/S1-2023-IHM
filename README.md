@@ -42,5 +42,13 @@ Vérification W3C : (https://validator.w3.org/nu/?doc=https%3A%2F%2Fathomass.git
 
 ![Capture d'écran de la conformité de la page](W3C_Présentation_Gameloft.png)
 
+### Données économiques de Gameloft 
+
+**Auteur : Thomasset Annaeg ** 
+
+Vérification W3C : (https://validator.w3.org/nu/?doc=https%3A%2F%2Fathomass.github.io%2FS1-2023-IHM%2FPr%25C3%25A9sentation_de_Gameloft.html)
+
+![Capture d'écran de la conformité de la page](W3C_Présentation_Gameloft.png)
+
 
 
