@@ -54,6 +54,12 @@ Vérification W3C : (https://validator.w3.org/nu/?doc=https%3A%2F%2Fathomass.git
 
 Vérification W3C : (https://validator.w3.org/nu/?doc=https%3A%2F%2Fathomass.github.io%2FS1-2023-IHM%2Fpage3.html)
 
+### Stratégie économique de Gameloft
+
+**Auteur : Ettabaa Younes ** 
+
+Vérification W3C : (https://validator.w3.org/nu/?doc=https%3A%2F%2Fathomass.github.io%2FS1-2023-IHM%2Fpage4.html)
+
 
 
 
